@@ -1,0 +1,15 @@
+- 5 things in rdd
+- 
+
+Resource Manager 
+Worker Node
+Resource manager 
+Driver Node 
+
+Edge node ? 
+
+Node mgr
+
+Deployment mode - Client and server mode of deployment
+
+jvm in nodes - spawans multiple threads -  (for single context/Application)
